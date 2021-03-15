@@ -1,0 +1,1 @@
+alert("Netsujou no spectrum!!!");
