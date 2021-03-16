@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies":{
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-loader": "^8.2.2",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
